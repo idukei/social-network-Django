@@ -1,1 +1,1 @@
-# Red SOcial APP
+# Red Social APP, Django
